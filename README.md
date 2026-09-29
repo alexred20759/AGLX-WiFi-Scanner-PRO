@@ -7,7 +7,7 @@
 <h2 align="center">Professional WiFi & Bluetooth Network Analyzer for Windows</h2>
 
 <p align="center">
-  <img src="aglx-screenshot.png" width="900" alt="AGLX WiFi Scanner PRO">
+  <img src="Aglxscanner.png" width="900" alt="AGLX WiFi Scanner PRO">
 </p>
 
 <p align="center">
