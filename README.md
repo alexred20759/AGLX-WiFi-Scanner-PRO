@@ -55,7 +55,7 @@ AGLX WiFi Scanner PRO is available through the official Microsoft Store.
 
 <p align="center">
   <a href="https://apps.microsoft.com/store/detail/9N6ZLKKC686X">
-    <strong>🛒 Download AGLX WiFi Scanner PRO</strong>
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="220" alt="Download from Microsoft Store">
   </a>
 </p>
 
