@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://apps.microsoft.com/store/detail/9N6ZLKKC686X">
-    <strong>🛒 Get AGLX WiFi Scanner PRO on Microsoft Store</strong>
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="220" alt="Download from Microsoft Store">
   </a>
 </p>
 
