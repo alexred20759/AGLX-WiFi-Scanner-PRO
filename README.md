@@ -1,7 +1,7 @@
 # AGLX WiFi Scanner PRO
 
 <p align="center">
-  <img src="aglx-icon.png" width="140" alt="AGLX WiFi Scanner PRO">
+  <img src="icon.png" width="140" alt="AGLX WiFi Scanner PRO">
 </p>
 
 <h2 align="center">Professional WiFi & Bluetooth Network Analyzer for Windows</h2>
